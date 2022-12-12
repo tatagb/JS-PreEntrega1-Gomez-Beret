@@ -145,3 +145,5 @@ do  {
 }
 
 while (eleccion !== 3 && inicio!==2);
+
+

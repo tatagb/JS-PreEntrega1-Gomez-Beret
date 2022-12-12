@@ -246,6 +246,14 @@ header div, header nav .navbar-collapse ul, main .cu, main .cu .tarjetas-de-cons
   height: 100%;
   padding: 0;
   grid-area: main; }
+  .mainServicios .container-fluid .row .botonRegistro #boton {
+    background-color: darkred;
+    color: whitesmoke;
+    font-weight: bold;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 20px; }
   .mainServicios .contenedorDeTarjetas {
     width: 100%;
     display: flex;
